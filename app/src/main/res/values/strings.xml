@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticasTema3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_fragment_first">Este es el primer Fragmento</string>
+    <string name="text_fragment_second">Esto es el segundo Fragmento</string>
+</resources>
